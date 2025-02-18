@@ -38,7 +38,6 @@ public class mainCredits extends AppCompatActivity {
         setContentView(R.layout.activity_main_credits);
     }
 
-
     /**
      * Creates the options menu for this activity.
      * Inflates the menu resource to display the options menu items.
